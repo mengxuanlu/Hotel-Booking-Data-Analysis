@@ -15,7 +15,7 @@ The dataset contains data from two different hotels, one is resort hotel, the ot
 5) What is the customer type for each hotel?<br />
 6) How long do guests stay on average at each hotel?<br />
 7) Do guests tend to cancel their bookings if they booked earlier?<br />
-8) Do guests booked earlier tend to cancel?<br />
+8) Do guests booked directly tend to cancel?<br />
 9) Do guests who paid no deposit tend to cancel?<br />
 10) Do guests tend to cancel if they cancelled before?<br />
 
