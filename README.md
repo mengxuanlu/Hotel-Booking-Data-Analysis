@@ -25,5 +25,5 @@ By evaluating feature importance, I successfully narrowed down the features to a
 
 ## Predict Cancellation
 
-Cancellation prediction plays a crucial role in forecasting demand and improving sellout efficiency, thus maximizing hotel revenue. I tried three models, which is random forest, decision trees and logistic regression and compared their performances. After the evaluation, random forest model gave the best performance.
+Cancellation prediction plays a crucial role in forecasting demand and improving sellout efficiency, thus maximizing hotel revenue. I tried four models, which are random forest, decision trees, logistic regression and XGBoost, and compared their performances. After the evaluation, random forest model gave the best performance.
 
